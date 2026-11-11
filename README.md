@@ -118,10 +118,11 @@ const ayantha = {
 
 ---
 
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyanthaSithuruwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanthaSithuruwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" /> <br/> <img src="https://streak-stats.demolab.com?user=AyanthaSithuruwan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AyanthaSithuruwan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" /> </div>
-📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanthaSithuruwan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AyanthaSithuruwan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+</div>
 
 ### 🐍 Contribution Snake
 
